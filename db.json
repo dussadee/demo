@@ -1,14 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "concepts": [{
+  "id": 1,
+  "title": "Focus on Systems",
+  "subTitle": "While our prices are competitive, it's the value that's unmatched."
+}, {
+  "id": 2,
+  "title": "Plan of Action",
+  "subTitle": "While our prices are competitive, it's the value that's unmatched."
+}, {
+  "id": 3,
+  "title": "Quality Compliance",
+  "subTitle": "While our prices are competitive, it's the value that's unmatched."
+}, {
+  "id": 4,
+  "title": "Quality Compliance",
+  "subTitle": "While our prices are competitive, it's the value that's unmatched."
+}, {
+  "id": 5,
+  "title": "Quality Compliance",
+  "subTitle": "While our prices are competitive, it's the value that's unmatched."
+}],
+  "events": [{
+  "id": 1,
+  "title": "Rihanna, Eminem on stage",
+  "img": "https://www.celebtwitternews.com/wp-content/uploads/2014/08/EminemRihanna.jpg",
+  "subTitle": "Integrating technology and software solutions.",
+  "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions."
+}, {
+  "id": 2,
+  "title": "Dr. Dre on stage live",
+  "img": "https://www.sneakavilla.net/wp-content/uploads/2015/08/1418237430_142967072_26.jpg",
+  "subTitle": "Integrating technology and software solutions.",
+  "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions."
+}, {
+  "id": 3,
+  "title": "Macaroons live Party",
+  "img": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/shutterstock_199419065.jpg",
+  "subTitle": "Integrating technology and software solutions.",
+  "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions."
+}, {
+  "id": 4,
+  "title": "Macaroons live Party",
+  "img": "https://3adim.com/images/eventsturkeyantalya.jpg",
+  "subTitle": "Integrating technology and software solutions.",
+  "description": "It is our belief that in order to be most efficient it requires adaptive technology and software solutions."
+}],
+  "blogs": [{
+  "id": 1,
+  "title": "Communicating with you every step of the way",
+  "img": "https://www.ecopetit.cat/wpic/mpic/4-42716_fondos-de-pantalla-4k.jpg",
+  "subTitle": "July 02, 2045 | Tag: Technology | By: David John",
+  "description": "We combine continuing education and constant monitoring us with your project details if you are interested to ge of industry trends and innovations to provide the right IT solution at the right time. Contact us with your project details if you are interested to get our Web Solution or Software Development Services."
+}, {
+  "id": 2,
+  "title": "Communicating with you every step of the way",
+  "img": "https://i.pinimg.com/originals/93/6b/14/936b143f02cf44bdd38559b57c06e42d.jpg",
+  "subTitle": "July 02, 2045 | Tag: Technology | By: David John",
+  "description": "We combine continuing education and constant monitoring us with your project details if you are interested to ge of industry trends and innovations to provide the right IT solution at the right time. Contact us with your project details if you are interested to get our Web Solution or Software Development Services."
+}, {
+  "id": 3,
+  "title": "Communicating with you every step of the way",
+  "img": "https://wallpaperaccess.com/full/452582.jpg",
+  "subTitle": "July 02, 2045 | Tag: Technology | By: David John",
+  "description": "We combine continuing education and constant monitoring us with your project details if you are interested to ge of industry trends and innovations to provide the right IT solution at the right time. Contact us with your project details if you are interested to get our Web Solution or Software Development Services."
+}],
+  "blogs": [{
+  "id": 1,
+  "name": "Adam Miser",
+  "img": "https://robohash.org/inciduntquisquamperspiciatis.png?size=500x500&set=set1",
+  "position": "CEO",
+  "email": "name@domain.com"
+}, {
+  "id": 2,
+  "name": "Rene Waters",
+  "img": "https://robohash.org/voluptasliberosaepe.jpg?size=500x500&set=set1",
+  "position": "CEO",
+  "email": "name@domain.com"
+}, {
+  "id": 3,
+  "name": "Randall Thornton",
+  "img": "https://robohash.org/doloremsuntperferendis.jpg?size=500x500&set=set1",
+  "position": "CEO",
+  "email": "name@domain.com"
+}, {
+  "id": 4,
+  "name": "Alondra Villanueva",
+  "img": "https://robohash.org/omnisperspiciatisperferendis.jpg?size=500x500&set=set1",
+  "position": "CEO",
+  "email": "name@domain.com"
+}]
 }
